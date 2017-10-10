@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Custom Home Builders
 
-Things you may want to cover:
+HOME: THE ULTIMATE RETREAT
 
-* Ruby version
+Home is a place which plays a very important part in one’s life. It is a place from where he gets the best feeling of being with his or her family, enjoy, relax and practically could do whatever he or she wants. A home is an ultimate retreat for a person. Owning one’s own house is just like a dream come true. It is not only a building or structure in which people live, it is a place where one spends time with his or her family, make memories of the beautiful moments that they experience in that home. Though the home is made by home builders but it carries the dreams of the owners who are going to live in it, spending their lifetime into it, making it an important part of the emotions and celebrations.
+A home is not a home at its beginning, it is just a house. What makes it a home? The people who live in it and spend their lifetime, no matter whether it is situated in a city or a country area make it a home. Since a home carries a lot of emotional feelings with it, it is a duty of the constructors to create one that lives up to the dreams of its owners. Finding a builder and an architect is not a difficult task in today’s world but the problem resides in the fact that will they be able to build our house according to our expectations? Usually the owner of the house is not involved in the making of it. It is the architect and the builders who take inputs from them and build the house on their own.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+CUSTOM HOMES: BUILD IT, HOW YOU DREAMT IT
+Today, it is an era of customised goods. Now-a-days, we can find anything and everything which could be customised according to our needs be it our apparels, footwear, food, holidays and what not. Even our investments can be customised according to our future needs taking into consideration the risk factor that we would like to take upon ourselves. Custom homes are another such example in the area of customisation where we can get our precious home built how we dreamt it to be.
+Through custom homes people can get their home built exactly how they want it to be. The designers and constructors take the inputs of their imagination about their home which is to be built and prepares layout accordingly. Unlike traditional building of homes, today, builders provide 100% assistance from the basic process of buying a land for their home to designing it and constructing it and at each level of construction, the advice and ideas of the owner is given priority since they will be living in it after it will be built so their satisfaction is a necessity and you get your home built how you dreamt it.
